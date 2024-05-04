@@ -24,6 +24,7 @@ Dataset:
 * Testing Dataset : [Download](https://github.com/tranvietcuong03/weather_forecasting/blob/master/DailyDelhiClimateTest.csv)
 <br>
 It will be this: <br>
+
 |       | Date       | Mean Temp | Humidity | Wind Speed | Mean Pressure |
 |-------|------------|-----------|----------|------------|---------------|
 | 0     | 2013-01-01 | 10.000000 | 84.500000| 0.000000   | 1015.666667   |
@@ -35,6 +36,7 @@ It will be this: <br>
 
 ## Analyzing:
 * Look at the descriptive statistics of the data: <br>
+
 | Statistic | Meantemp   | Humidity | Wind Speed | Mean Pressure |
 |-----------|------------|----------|------------|---------------|
 | Count     | 1462.000000 | 1462.000000 | 1462.000000 | 1462.000000 |
