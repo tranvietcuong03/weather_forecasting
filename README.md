@@ -2,7 +2,6 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![imblearn](https://img.shields.io/badge/imblearn-green?style=for-the-badge&logo=imblearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/matplotlib-%233A4CAA.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/seaborn-%2302B6D6.svg?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Prophet](https://img.shields.io/badge/prophet-%234591A6.svg?style=for-the-badge&logo=prophet&logoColor=white)
