@@ -34,7 +34,7 @@ It will be this: <br>
 | 4     | 2013-01-05 | 6.000000  | 86.833333| 3.700000   | 1016.500000   |
 
 
-## Analyzing:
+## Analyzing
 * Look at the descriptive statistics of the data: <br>
 
 | Statistic | Meantemp   | Humidity | Wind Speed | Mean Pressure |
@@ -82,7 +82,7 @@ The Facebook prophet model is one of the best techniques for time series forecas
 Forecast the weather using the Facebook prophet model:
 ![...](https://github.com/tranvietcuong03/weather_forecasting/blob/master/weather_forecasting.png).
 
-## Result:
+## Result
 Functions model i have the prediction which compare to the actual number in the Test dataset:
 * Mean Absolute Error (MAE): 2.1925
 * Root Mean Squared Error (RMSE): 7.1289
