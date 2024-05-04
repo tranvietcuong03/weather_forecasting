@@ -48,7 +48,7 @@ It will be this: <br>
 | 75th %ile | 31.305804   | 72.218750  | 9.238235   | 1014.944901 |
 | Max       | 38.714286   | 100.000000 | 42.220000  | 7679.333333 |
 
-
+<br>
 * Look at the temperature change in Delhi over the years:
 ![...](https://github.com/tranvietcuong03/weather_forecasting/blob/master/analyze_temperature.png)
 
@@ -76,6 +76,7 @@ The Facebook prophet model is one of the best techniques for time series forecas
 | 4   | 2013-01-05 | 6.000000  | 86.833333 | 3.700000  | 1016.500000 | 2013 | 1     |
 | ... | ...        | ...      | ...      | ...        | ...         | ...  | ...   |
 
+<br>
 Forecast the weather using the Facebook prophet model:
 ![...](https://github.com/tranvietcuong03/weather_forecasting/blob/master/weather_forecasting.png).
 
