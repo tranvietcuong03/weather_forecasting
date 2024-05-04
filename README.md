@@ -23,8 +23,8 @@ Dataset:
 * Training Dataset: [Download](https://github.com/tranvietcuong03/weather_forecasting/blob/master/DailyDelhiClimateTrain.csv).
 * Testing Dataset : [Download](https://github.com/tranvietcuong03/weather_forecasting/blob/master/DailyDelhiClimateTest.csv)
 <br>
-It will be this: 
-|  | Date       | Mean Temp | Humidity | Wind Speed | Mean Pressure |
+It will be this: <br>
+|       | Date       | Mean Temp | Humidity | Wind Speed | Mean Pressure |
 |-------|------------|-----------|----------|------------|---------------|
 | 0     | 2013-01-01 | 10.000000 | 84.500000| 0.000000   | 1015.666667   |
 | 1     | 2013-01-02 | 7.400000  | 92.000000| 2.980000   | 1017.800000   |
@@ -33,7 +33,7 @@ It will be this:
 | 4     | 2013-01-05 | 6.000000  | 86.833333| 3.700000   | 1016.500000   |
 
 ## Analyzing:
-* Look at the descriptive statistics of the data:
+* Look at the descriptive statistics of the data: <br>
 |        | Meantemp  | Humidity  | Wind Speed | Mean Pressure |
 |--------|-----------|-----------|------------|---------------|
 | Count  | 1462.000000 | 1462.000000 | 1462.000000 | 1462.000000  |
