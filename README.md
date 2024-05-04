@@ -9,19 +9,20 @@
 
 ## About
 
-This project focuses on analyzing and forecasting weather data in New Delhi for the period spanning 2013 to 2017. The dataset contains daily weather observations recorded over this time span, and includes important meteorological features such as:
+This project focuses on analyzing and forecasting weather data in New Delhi for the period spanning 2013 to 2017. The dataset contains daily weather observations recorded over this time span, and includes important meteorological features such as: <br>
 
-Date: The date of the observation.
-Mean Temperature: The average temperature recorded on that day, measured in degrees Celsius.
-Humidity: The average humidity percentage recorded on that day.
-Wind Speed: The average wind speed recorded on that day, measured in meters per second.
-Mean Pressure: The average atmospheric pressure recorded on that day, measured in hPa (hectopascals).
+Date: The date of the observation.<br>
+Mean Temperature: The average temperature recorded on that day, measured in degrees Celsius.<br>
+Humidity: The average humidity percentage recorded on that day.<br>
+Wind Speed: The average wind speed recorded on that day, measured in meters per second.<br>
+Mean Pressure: The average atmospheric pressure recorded on that day, measured in hPa (hectopascals).<br>
 By examining these key weather attributes, this project aims to provide valuable insights into weather patterns in New Delhi over the course of five years. Moreover, the project seeks to build a predictive model that can forecast future weather conditions based on historical data.
 
 ## Dataset
 Dataset: 
 * Training Dataset: [Download](https://github.com/tranvietcuong03/weather_forecasting/blob/master/DailyDelhiClimateTrain.csv).
 * Testing Dataset : [Download](https://github.com/tranvietcuong03/weather_forecasting/blob/master/DailyDelhiClimateTest.csv)
+<br>
 It will be this: 
 |  | Date       | Mean Temp | Humidity | Wind Speed | Mean Pressure |
 |-------|------------|-----------|----------|------------|---------------|
